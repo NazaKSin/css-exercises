@@ -1,0 +1,14 @@
+.prima-clasa {
+    background-color: black;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.a-doua-clasa {
+    background-color:yellow;
+}
+
+.prima-clasa, .a-doua-clasa {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
